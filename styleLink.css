@@ -1,0 +1,15 @@
+.link{
+    font-size: 20pt;
+    }
+
+.link:hover{
+    color: red; }
+
+.link:link{
+    color: blue;
+    }
+
+/* Soal no 12: link berubah hijau muda setelah dikunjungi */
+.link:visited{
+    color: greenyellow;
+}

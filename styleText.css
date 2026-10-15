@@ -1,0 +1,12 @@
+.tulisans_warna{
+    color: blue;
+    /* Soal no 14: posisi text di tengah */
+    text-align: center;
+    /* Soal no 15: dekorasi garis bawah */
+    text-decoration: underline;
+}
+
+/* Soal no 16: jarak antar karakter paragraf 5px */
+.par1{
+    letter-spacing: 5px;
+}
