@@ -25,12 +25,12 @@ body{
     }
 
 body{
-    background: url('teknik.jpg');
+    background: url('../teknik.jpg');
     color: white;
     }
 
 body{
-    background: url('teknik.jpg'), url('TI.jpg');
+    background: url('../teknik.jpg'), url('../TI.jpg');
     background-repeat: no-repeat, repeat;
     color: white;
     }
