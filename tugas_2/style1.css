@@ -68,7 +68,7 @@ body {
 /* Background gambar + overlay gradien warna */
 body {
     background: linear-gradient(rgba(116,185,255,0.4), rgba(162,155,254,0.4)),
-                url('../teknik.jpg');
+                url('teknik.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
